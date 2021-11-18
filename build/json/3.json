@@ -1,0 +1,47 @@
+{
+  "DNA": "5c072a1ad18da6b406915a319febab2eea6404ae",
+  "name": "#3",
+  "description": "Description of our project.",
+  "image": "ipfs://NewUriToReplace/3.png",
+  "edition": 3,
+  "date": 1635088531971,
+  "attributes": [
+    {
+      "trait_type": "2-suit",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "3-shoulder",
+      "value": "LunaFlag"
+    },
+    {
+      "trait_type": "4-pin",
+      "value": "Smiley"
+    },
+    {
+      "trait_type": "5-skin",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "6-facial-hair",
+      "value": "NoFacialHair"
+    },
+    {
+      "trait_type": "7-mask",
+      "value": "Mask"
+    },
+    {
+      "trait_type": "8-hair",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "9-accessories",
+      "value": "NoAcc"
+    },
+    {
+      "trait_type": "10-headwear",
+      "value": "Stealth"
+    }
+  ],
+  "compiler": "Abhinandan Nabera"
+}
